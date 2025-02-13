@@ -1,0 +1,16 @@
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\bin\Debug\essaimyimage.exe.config
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\bin\Debug\essaimyimage.exe
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\bin\Debug\essaimyimage.pdb
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\obj\Debug\essaimyimage.csproj.AssemblyReference.cache
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\obj\Debug\essaimyimage.csproj.SuggestedBindingRedirects.cache
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\obj\Debug\essaimyimage.csproj.CoreCompileInputs.cache
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\obj\Debug\essaimyimage.exe
+C:\Users\33631\OneDrive - De Vinci\Bureau\essaimyimage\essaimyimage\obj\Debug\essaimyimage.pdb
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\bin\Debug\essaimyimage.exe.config
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\bin\Debug\essaimyimage.exe
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\bin\Debug\essaimyimage.pdb
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\obj\Debug\essaimyimage.csproj.AssemblyReference.cache
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\obj\Debug\essaimyimage.csproj.SuggestedBindingRedirects.cache
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\obj\Debug\essaimyimage.csproj.CoreCompileInputs.cache
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\obj\Debug\essaimyimage.exe
+C:\Users\33631\OneDrive - De Vinci\Bureau\Projet Guillemot Lanotte Laroudie\essaimyimage\obj\Debug\essaimyimage.pdb
